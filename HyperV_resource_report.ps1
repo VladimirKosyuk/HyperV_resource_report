@@ -1,6 +1,6 @@
 ﻿#Created by https://github.com/VladimirKosyuk
 
-#Outputs as sum VHD, RAM, CPU for all of all VM that stored on HyperV cluster. I know about Get-HyperVReport, but i want to simplify this task
+#Outputs as sum VHD, RAM, CPU for all VM that stored on HyperV cluster. I know about Get-HyperVReport, but i want to simplify this task
 #
 # Build date: 21.09.2020									   
  
